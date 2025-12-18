@@ -3,7 +3,7 @@ import java.text.SimpleDateFormat
 plugins {
     id 'application'
     id 'org.openjfx.javafxplugin' version '0.1.0'
-    id 'org.beryx.runtime' version '1.12.5'
+    id 'org.beryx.runtime' version '2.0.1'
     id "com.github.hierynomus.license-report" version "0.16.1"
 }
 
